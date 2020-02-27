@@ -1,3 +1,2 @@
 (fp_lib_table
-  (lib (name digikey-footprints)(type KiCad)(uri /Volumes/Nifty/kicad/digikey-kicad-library/digikey-footprints.pretty)(options "")(descr ""))
 )
